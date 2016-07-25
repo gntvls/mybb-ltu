@@ -1,0 +1,34 @@
+<?
+$l['mybbskins_bienvenidocoma'] = "Welcome,";
+$l['mybbskins_disenado'] = "Designed by";
+$l['mybbskins_foro'] = "Forum";
+$l['mybbskins_usuario'] = "Username";
+$l['mybbskins_contrasena'] = "Password";
+$l['mybbskins_enero'] = "January";
+$l['mybbskins_febrero'] = "February";
+$l['mybbskins_marzo'] = "March";
+$l['mybbskins_abril'] = "April";
+$l['mybbskins_mayo'] = "May";
+$l['mybbskins_junio'] = "June";
+$l['mybbskins_julio'] = "July";
+$l['mybbskins_agosto'] = "August";
+$l['mybbskins_septiembre'] = "September";
+$l['mybbskins_octubre'] = "October";
+$l['mybbskins_noviembre'] = "November";
+$l['mybbskins_diciembre'] = "December";
+$l['mybbskins_lunes'] = "Monday";
+$l['mybbskins_martes'] = "Tuesday";
+$l['mybbskins_miercoles'] = "Wednesday";
+$l['mybbskins_jueves'] = "Thursday";
+$l['mybbskins_viernes'] = "Friday";
+$l['mybbskins_sabado'] = "Saturday";
+$l['mybbskins_domingo'] = "Sunday";
+$l['mybbskins_redactar'] = "Compose";
+$l['mybbskins_bandeja'] = "Inbox";
+$l['mybbskins_mensajesenviados'] = "Sent Items";
+$l['mybbskins_borradores'] = "Drafts";
+$l['mybbskins_papelera'] = "Trash Can";
+$l['mybbskins_rastrear'] = "Tracking";
+$l['mybbskins_editarcarpetas'] = "Edit Folders";
+$l['mybbskins_editarfirma'] = "Change Signature";
+?>
