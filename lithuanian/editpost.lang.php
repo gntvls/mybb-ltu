@@ -16,15 +16,15 @@
 // Language pack translators website : http://www.f1news.lt
 // Compatible version of MyBB : 1807
 // Last edited in MyBB Editor by : f1news.lt
-// Last edited date : Sun, 03 Apr 2016 19:51:20 +0000
+// Last edited date : Mon, 25 Jul 2016 13:05:08 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_editpost'] = 'Redaguoti pranešimą';
 $l['edit_post'] = 'Redaguoti šį pranešimą';
 $l['delete_post'] = 'Ištrinti pranešimą';
 $l['delete_q'] = 'Ištrinti?';
-$l['delete_1'] = 'To delete this post, check the checkbox to the left and then click the button to the right.';
-$l['delete_2'] = '<b>Note:</b> If this post is the first post in a thread deleting it will result in deletion of the whole thread.';
+$l['delete_1'] = 'Kad ištrintumėte šį pranešimą, pažymėkite jį varnele kairėje pusėje ir tada spauskite mygtuką dešinėje.';
+$l['delete_2'] = '<b>Pastaba:</b> Jeigu šis pranešimas yra pirmas temoje, bus ištrinta visa tema.';
 $l['subject'] = 'Temos eilutė';
 $l['your_message'] = 'Tavo tekstats';
 $l['post_options'] = 'Pranešimo nustatymai:';

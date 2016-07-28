@@ -16,7 +16,7 @@
 // Language pack translators website : http://www.f1news.lt
 // Compatible version of MyBB : 1807
 // Last edited in MyBB Editor by : f1news.lt
-// Last edited date : Sat, 23 Jul 2016 18:14:14 +0000
+// Last edited date : Mon, 25 Jul 2016 14:00:04 +0000
 // --------------------------------------------------------------------------------
 
 $l['redirect_width'] = '50%';
@@ -470,15 +470,15 @@ $l['previous'] = 'Buvęs';
 $l['delete'] = 'Ištrinti';
 $l['massmail_username'] = 'Vartotojo vardas';
 $l['email_addr'] = 'El. pašto adresas';
-$l['board_name'] = 'Board Name';
-$l['board_url'] = 'Board URL';
+$l['board_name'] = 'Forumo pavadinimas';
+$l['board_url'] = 'Forumo URK';
 $l['comma'] = ', ';
-$l['debug_generated_in'] = 'Generated in {1}';
+$l['debug_generated_in'] = 'Sukurtas per {1}';
 $l['debug_weight'] = '({1}% PHP / {2}% {3})';
-$l['debug_sql_queries'] = 'SQL Queries: {1}';
-$l['debug_server_load'] = 'Server Load: {1}';
-$l['debug_memory_usage'] = 'Memory Usage: {1}';
-$l['debug_advanced_details'] = 'Advanced Details';
+$l['debug_sql_queries'] = 'SQL užklausos: {1}';
+$l['debug_server_load'] = 'Serverio apkrova: {1}';
+$l['debug_memory_usage'] = 'Atminties naudojimas: {1}';
+$l['debug_advanced_details'] = 'Papildomos detalės';
 $l['error_emailflooding_1_second'] = 'Sorry, but you can only send one email every {1} minutes. Please wait another 1 second before attempting to email again.';
 $l['error_emailflooding_seconds'] = 'Sorry, but you can only send one email every {1} minutes. Please wait another {2} seconds before attempting to email again.';
 $l['error_emailflooding_1_minute'] = 'Sorry, but you can only send one email every {1} minutes. Please wait another 1 minute before attempting to email again.';
@@ -512,15 +512,15 @@ $l['awaiting_message_single'] = 'Viena paskyra laukia aktyvacijos. Apsilankę AC
 $l['awaiting_message_plural'] = '{1} paskyros laukia aktyvacijos  Apsilankę ACP galite paskyras aktyvuoti iš karto.';
 $l['select2_match'] = 'One result is available, press enter to select it.';
 $l['select2_matches'] = '{1} results are available, use up and down arrow keys to navigate.';
-$l['select2_nomatches'] = 'No matches found';
-$l['select2_inputtooshort_single'] = 'Please enter one or more character';
-$l['select2_inputtooshort_plural'] = 'Please enter {1} or more characters';
-$l['select2_inputtoolong_single'] = 'Please delete one character';
-$l['select2_inputtoolong_plural'] = 'Please delete {1} characters';
-$l['select2_selectiontoobig_single'] = 'You can only select one item';
-$l['select2_selectiontoobig_plural'] = 'You can only select {1} items';
-$l['select2_loadmore'] = 'Loading more results…';
-$l['select2_searching'] = 'Searching…';
+$l['select2_nomatches'] = 'Atitikimų nerasta';
+$l['select2_inputtooshort_single'] = 'Įveskite vieną arba daugiau simbolių';
+$l['select2_inputtooshort_plural'] = 'Įveskite {1} arba daugiau simbolių';
+$l['select2_inputtoolong_single'] = 'Ištrinkite vieną simbolį';
+$l['select2_inputtoolong_plural'] = 'Ištrinkite {1} simbolius';
+$l['select2_selectiontoobig_single'] = 'Galite pasirinkti tik vieną';
+$l['select2_selectiontoobig_plural'] = 'Galite pasirinkti tik {1}';
+$l['select2_loadmore'] = 'Krauname daugiau rezultatų...';
+$l['select2_searching'] = 'Ieškoma…';
 $l['stopforumspam_error_decoding'] = 'Error decoding data from StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'Error retrieving data from StopForumSpam.com.';
 $l['sfs_error_username'] = 'username';
